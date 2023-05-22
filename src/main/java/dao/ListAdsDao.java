@@ -1,3 +1,8 @@
+package dao;
+
+import dao.Ads;
+import modal.Ad;
+
 import java.util.ArrayList;
 import java.util.List;
 
