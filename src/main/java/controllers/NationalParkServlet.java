@@ -13,6 +13,6 @@ import java.io.IOException;
 public class NationalParkServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        NationalPark np1 = new NationalPark(1, "Badlands", "South Dakota");
+
     }
 }
